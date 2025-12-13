@@ -76,3 +76,21 @@ Easy to operate without technical knowledge
 Offline-friendly (using localStorage)
 
 Extendable to full-stack systems in the future
+
+**Features**
+
+200+ Products
+
+ Product Images (Placeholder-based)
+
+Search & Category Filtering
+
+ Cart with Quantity Management
+
+ Delivery Address Storage
+
+ Location Detection (GPS)
+
+ Order History Tracking
+
+ LocalStorage-based Data Storage
