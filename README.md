@@ -1,3 +1,4 @@
+
 **Smart Market Assistant for Small Businesses**
 
 **team name**
@@ -43,3 +44,15 @@ Suitable for small and medium businesses
 The project focuses on creating a digital bridge between customers and small business owners, allowing better product visibility, faster ordering, and improved customer experience.
 
 Dependent on backend infrastructure and constant internet connectivity
+
+**Objectives of the Project**
+
+Digitally empower small businesses and local vendors
+
+Simplify product browsing and ordering for customers
+
+Reduce dependency on manual record keeping
+
+Provide a smart assistant–like shopping experience
+
+Build a scalable prototype for real-world deployment
