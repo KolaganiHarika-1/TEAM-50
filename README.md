@@ -116,7 +116,36 @@ Name
 Price
 
 **Architecture**
-Category
+
+┌───────────────────────────┐
+        │        Users               │
+        │ ─ Shop Owner               │
+        │ ─ Rural Customer           │
+        │ ─ Delivery Agent           │
+        └────────────┬──────────────┘
+                     │
+                     ▼
+        ┌───────────────────────────┐
+        │   Web / Mobile Interface   │
+        │ (HTML / CSS / JS / React)  │
+        └────────────┬──────────────┘
+                     │
+                     ▼
+        ┌───────────────────────────┐
+        │   Smart Market Engine      │
+        │ (Business Logic Layer)     │
+        └───────┬─────────┬─────────┘
+                │         │
+                ▼         ▼
+     ┌────────────────┐  ┌───────────────────┐
+     │ Local Storage / │  │ AI Agent Layer     │
+     │ Database        │  │ (Decision System) │
+     └────────────────┘  └─────────┬─────────┘
+                                     ▼
+                          ┌────────────────────┐
+                          │ Insights & Actions │
+                          │ (Suggestions)      │
+                          └────────────────────┘
 
 Image URL
 
