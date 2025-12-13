@@ -98,3 +98,9 @@ Search & Category Filtering
  Responsive Design
 
  No Backend Required
+
+**Project Structure**
+Smart-Market-Assistant/
+│
+├── index.html        # Main application file
+├── README.md         # Project documentation
