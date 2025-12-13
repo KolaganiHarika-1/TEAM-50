@@ -115,6 +115,7 @@ Name
 
 Price
 
+**Architecture**
 Category
 
 Image URL
