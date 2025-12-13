@@ -56,3 +56,23 @@ Reduce dependency on manual record keeping
 Provide a smart assistant–like shopping experience
 
 Build a scalable prototype for real-world deployment
+
+**Why Smart Market Assistant is Important**
+
+Small shops struggle to go digital due to high costs
+
+Manual systems lead to errors and inefficiency
+
+Customers prefer fast and simple digital experiences
+
+Many tools are not designed for small-scale businesses
+
+Smart Market Assistant solves these issues by being:
+
+Lightweight and fast
+
+Easy to operate without technical knowledge
+
+Offline-friendly (using localStorage)
+
+Extendable to full-stack systems in the future
