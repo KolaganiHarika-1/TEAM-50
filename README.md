@@ -30,4 +30,16 @@ Expensive
 
 Complex to use
 
+Smart Market Assistant addresses these problems by providing a frontend-based smart shopping assistant that is:
+
+Easy to use
+
+Cost-effective
+
+Scalable
+
+Suitable for small and medium businesses
+
+The project focuses on creating a digital bridge between customers and small business owners, allowing better product visibility, faster ordering, and improved customer experience.
+
 Dependent on backend infrastructure and constant internet connectivity
