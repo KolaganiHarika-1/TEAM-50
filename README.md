@@ -94,3 +94,7 @@ Search & Category Filtering
  Order History Tracking
 
  LocalStorage-based Data Storage
+
+ Responsive Design
+
+ No Backend Required
