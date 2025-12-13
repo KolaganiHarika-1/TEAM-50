@@ -104,3 +104,21 @@ Smart-Market-Assistant/
 │
 ├── index.html        # Main application file
 ├── README.md         # Project documentation
+
+**How It Works**
+
+Products are stored in a JavaScript array
+
+Each product includes:
+
+Name
+
+Price
+
+Category
+
+Image URL
+
+Cart, address, and orders are saved using localStorage
+
+Entire application runs without a backend server
