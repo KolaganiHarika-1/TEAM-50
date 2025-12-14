@@ -223,7 +223,7 @@ Minimizes errors
 
 Saves time for both customers and shop owners
 
-9. Transparent & Trust-Based System
+9. **Transparent & Trust-Based System**
 
 No surge pricing
 
