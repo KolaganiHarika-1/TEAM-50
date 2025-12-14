@@ -214,3 +214,11 @@ Simple UI design
 Local language support (future scope)
 
 Minimal learning curve
+
+8. Faster Order Processing
+
+Reduces manual order taking
+
+Minimizes errors
+
+Saves time for both customers and shop owners
