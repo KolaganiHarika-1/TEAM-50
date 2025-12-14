@@ -190,8 +190,8 @@ No hosting or maintenance cost
 
 Affordable for small businesses
 
-5. Smart Decision Support for Shop Owners
-
+5.** Smart Decision Support for Shop Owners
+**
 Sales insights and trends
 
 Low-stock alerts
