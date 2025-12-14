@@ -189,3 +189,11 @@ No backend server required
 No hosting or maintenance cost
 
 Affordable for small businesses
+
+5. Smart Decision Support for Shop Owners
+
+Sales insights and trends
+
+Low-stock alerts
+
+Demand-based product suggestions
