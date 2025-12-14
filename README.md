@@ -154,3 +154,15 @@ Cart, address, and orders are saved using localStorage
 Entire application runs without a backend server
 
 **Advantages of Smart Market Assistant for Small Businesses**
+
+1.** Empowers Small & Local Businesses**
+
+
+Helps kirana stores and small vendors go digital
+
+
+No dependency on big e-commerce platforms
+
+
+Supports local economy and community growth
+
