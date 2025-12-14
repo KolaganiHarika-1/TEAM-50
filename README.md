@@ -181,3 +181,11 @@ Simulates human shopkeeper behavior
 Understands customer needs and habits
 
 Provides smart suggestions and reminder
+
+4. Cost-Effective Solution
+
+No backend server required
+
+No hosting or maintenance cost
+
+Affordable for small businesses
