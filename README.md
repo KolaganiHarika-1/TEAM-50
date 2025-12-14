@@ -231,7 +231,7 @@ No hidden fees
 
 Builds long-term customer trust
 
-10. Useful During Emergencies
+10. **Useful During Emergencies**
 
 Ensures availability of essential goods
 
