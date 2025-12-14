@@ -215,8 +215,8 @@ Local language support (future scope)
 
 Minimal learning curve
 
-8. Faster Order Processing
-
+8.** Faster Order Processing
+**
 Reduces manual order taking
 
 Minimizes errors
