@@ -244,3 +244,11 @@ Can be upgraded to full-stack architecture
 Supports payment integration, real AI, analytics
 
 Suitable for startups and government initiatives
+
+12. Academic & Hackathon Friendly
+
+Simple yet innovative
+
+Easy to demonstrate and explain
+
+Combines AI, web development, and business logic
