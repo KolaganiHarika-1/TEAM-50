@@ -182,7 +182,7 @@ Understands customer needs and habits
 
 Provides smart suggestions and reminder
 
-4. Cost-Effective Solution
+4.** Cost-Effective Solution**
 
 No backend server required
 
