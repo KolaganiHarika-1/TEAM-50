@@ -287,3 +287,64 @@ Order History & Insights
 **Implementation Details
 **
 
+Technology Stack Used
+Frontend
+
+HTML5 – Page structure
+
+CSS3 – Responsive UI and styling
+
+JavaScript (Vanilla JS) – Application logic, AI agent behavior
+
+Storage
+
+Browser localStorage
+
+Cart data
+
+User address
+
+Order history
+
+APIs
+
+Geolocation API – Location detection for delivery address
+
+Picsum Image API – Placeholder images for products
+
+2. Project Structure
+Smart-Market-Assistant/
+│
+├── index.html        # Main application file
+├── assets/
+│   └── images/       # (Optional) Local images
+├── README.md
+└── docs/             # PPT / diagrams
+
+
+Entire project runs on the client side, no backend required.
+
+3. Product Data Implementation
+
+Products are stored as JavaScript objects in an array.
+
+Product Object Structure
+{
+  id: 1,
+  name: "Sona Masuri Rice 5kg",
+  price: 420,
+  category: "Rice",
+  image: "https://picsum.photos/seed/product1/300/200"
+}
+
+Image Handling
+
+Each product uses a unique Picsum image
+
+seed=productID ensures consistent images
+
+No image hosting required
+
+4. Dynamic Product Rendering
+
+Products are rendered dynamically using JavaScript.
