@@ -254,3 +254,32 @@ Easy to demonstrate and explain
 Combines AI, web development, and business logic
 
 **Workflow Diagram**
+
+User
+ │
+ ▼
+Open Web App
+ │
+ ▼
+Browse / Search Products
+ │
+ ▼
+AI Agent Analysis
+ │
+ ▼
+Smart Suggestions
+ │
+ ▼
+Add to Cart
+ │
+ ▼
+Enter Address
+ │
+ ▼
+Confirm Order
+ │
+ ▼
+Save Order (LocalStorage)
+ │
+ ▼
+Order History & Insights
