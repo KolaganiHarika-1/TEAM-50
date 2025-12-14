@@ -245,7 +245,7 @@ Supports payment integration, real AI, analytics
 
 Suitable for startups and government initiatives
 
-12. Academic & Hackathon Friendly
+12.** Academic & Hackathon Friendly**
 
 Simple yet innovative
 
