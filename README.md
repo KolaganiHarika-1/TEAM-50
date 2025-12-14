@@ -207,8 +207,8 @@ Smart basket and substitute recommendations
 
 Chat-based AI assistance
 
-7. Easy to Use for All Age Groups
-
+7.** Easy to Use for All Age Groups
+**
 Simple UI design
 
 Local language support (future scope)
