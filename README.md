@@ -197,3 +197,11 @@ Sales insights and trends
 Low-stock alerts
 
 Demand-based product suggestions
+
+6. Improved Customer Experience
+
+Fast product search and filtering
+
+Smart basket and substitute recommendations
+
+Chat-based AI assistance
