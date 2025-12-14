@@ -235,4 +235,5 @@ Builds long-term customer trust
 
 Ensures availability of essential goods
 
-Works even when physical movement is restricte
+Works even when physical movement is restricted
+
