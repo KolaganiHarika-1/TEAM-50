@@ -152,3 +152,5 @@ Image URL
 Cart, address, and orders are saved using localStorage
 
 Entire application runs without a backend server
+
+**Advantages of Smart Market Assistant for Small Businesses**
