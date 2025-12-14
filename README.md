@@ -198,6 +198,7 @@ Low-stock alerts
 
 Demand-based product suggestions
 
+
 6.** Improved Customer Experience
 **
 Fast product search and filtering
@@ -205,3 +206,11 @@ Fast product search and filtering
 Smart basket and substitute recommendations
 
 Chat-based AI assistance
+
+7. Easy to Use for All Age Groups
+
+Simple UI design
+
+Local language support (future scope)
+
+Minimal learning curve
