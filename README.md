@@ -237,3 +237,10 @@ Ensures availability of essential goods
 
 Works even when physical movement is restricted
 
+11. Scalable & Future-Ready
+
+Can be upgraded to full-stack architecture
+
+Supports payment integration, real AI, analytics
+
+Suitable for startups and government initiatives
