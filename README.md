@@ -166,6 +166,13 @@ No dependency on big e-commerce platforms
 
 Supports local economy and community growth
 
+3. Rural & Low-Internet Friendly
+
+Lightweight frontend-based application
+
+Works offline using localStorage
+
+Ideal for villages and semi-urban areas
 2.** AI Agent as Virtual Shopkeeper**
 
 Simulates human shopkeeper behavior
