@@ -166,7 +166,7 @@ No dependency on big e-commerce platforms
 
 Supports local economy and community growth
 
-2. AI Agent as Virtual Shopkeeper
+2.** AI Agent as Virtual Shopkeeper**
 
 Simulates human shopkeeper behavior
 
