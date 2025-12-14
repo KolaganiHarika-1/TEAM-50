@@ -230,3 +230,9 @@ No surge pricing
 No hidden fees
 
 Builds long-term customer trust
+
+10. Useful During Emergencies
+
+Ensures availability of essential goods
+
+Works even when physical movement is restricte
