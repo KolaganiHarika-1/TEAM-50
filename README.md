@@ -312,7 +312,7 @@ Geolocation API – Location detection for delivery address
 
 Picsum Image API – Placeholder images for products
 
-2. Project Structure
+2. **Project Structure**
 Smart-Market-Assistant/
 │
 ├── index.html        # Main application file
@@ -324,7 +324,7 @@ Smart-Market-Assistant/
 
 Entire project runs on the client side, no backend required.
 
-3. Product Data Implementation
+3.** Product Data Implementation**
 
 Products are stored as JavaScript objects in an array.
 
@@ -345,6 +345,6 @@ seed=productID ensures consistent images
 
 No image hosting required
 
-4. Dynamic Product Rendering
-
+4.** Dynamic Product Rendering
+**
 Products are rendered dynamically using JavaScript.
